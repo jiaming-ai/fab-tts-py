@@ -1,0 +1,647 @@
+[
+  {
+    "story_name": "the_sun_also_rises_english",
+    "file_name": "the_sun_also_rises_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_sun_also_rises_english.mp3?"
+  },
+  {
+    "story_name": "milo_and_the_time-traveling_toy_english",
+    "file_name": "milo_and_the_time-traveling_toy_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/milo_and_the_time-traveling_toy_english.mp3?"
+  },
+  {
+    "story_name": "the_troll_and_the_three_billy_goats_gruff_english",
+    "file_name": "the_troll_and_the_three_billy_goats_gruff_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_troll_and_the_three_billy_goats_gruff_english.mp3?"
+  },
+  {
+    "story_name": "how_the_rainbow_was_made_english",
+    "file_name": "how_the_rainbow_was_made_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/how_the_rainbow_was_made_english.mp3?"
+  },
+  {
+    "story_name": "the_brothers_grimm_fairy_tales_english",
+    "file_name": "the_brothers_grimm_fairy_tales_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_brothers_grimm_fairy_tales_english.mp3?"
+  },
+  {
+    "story_name": "the_secret_garden_english",
+    "file_name": "the_secret_garden_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_secret_garden_english.mp3?"
+  },
+  {
+    "story_name": "dr._jekyll_and_mr._hyde_english",
+    "file_name": "dr._jekyll_and_mr._hyde_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/dr._jekyll_and_mr._hyde_english.mp3?"
+  },
+  {
+    "story_name": "the_monkey_and_the_crocodile_english",
+    "file_name": "the_monkey_and_the_crocodile_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_monkey_and_the_crocodile_english.mp3?"
+  },
+  {
+    "story_name": "the_story_of_the_singapore_stone_english",
+    "file_name": "the_story_of_the_singapore_stone_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_story_of_the_singapore_stone_english.mp3?"
+  },
+  {
+    "story_name": "the_goblin_of_trondheim_english",
+    "file_name": "the_goblin_of_trondheim_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_goblin_of_trondheim_english.mp3?"
+  },
+  {
+    "story_name": "the_moonlight_mermaid_english",
+    "file_name": "the_moonlight_mermaid_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_moonlight_mermaid_english.mp3?"
+  },
+  {
+    "story_name": "the_clever_rabbit_and_the_lion_english",
+    "file_name": "the_clever_rabbit_and_the_lion_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_clever_rabbit_and_the_lion_english.mp3?"
+  },
+  {
+    "story_name": "the_old_man_and_the_sea_english",
+    "file_name": "the_old_man_and_the_sea_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_old_man_and_the_sea_english.mp3?"
+  },
+  {
+    "story_name": "the_tale_of_the_magical_mango_english",
+    "file_name": "the_tale_of_the_magical_mango_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tale_of_the_magical_mango_english.mp3?"
+  },
+  {
+    "story_name": "the_legend_of_janghwa_and_hongryeon_english",
+    "file_name": "the_legend_of_janghwa_and_hongryeon_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_legend_of_janghwa_and_hongryeon_english.mp3?"
+  },
+  {
+    "story_name": "the_talking_cave_english",
+    "file_name": "the_talking_cave_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_talking_cave_english.mp3?"
+  },
+  {
+    "story_name": "the_house_of_the_seven_gables_english",
+    "file_name": "the_house_of_the_seven_gables_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_house_of_the_seven_gables_english.mp3?"
+  },
+  {
+    "story_name": "the_sorcerer\u2019s_apprentice_english",
+    "file_name": "the_sorcerer\u2019s_apprentice_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_sorcerer\u2019s_apprentice_english.mp3?"
+  },
+  {
+    "story_name": "the_boy_who_drew_cats_english",
+    "file_name": "the_boy_who_drew_cats_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_boy_who_drew_cats_english.mp3?"
+  },
+  {
+    "story_name": "the_trial_english",
+    "file_name": "the_trial_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_trial_english.mp3?"
+  },
+  {
+    "story_name": "the_wind_in_the_willows_english",
+    "file_name": "the_wind_in_the_willows_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_wind_in_the_willows_english.mp3?"
+  },
+  {
+    "story_name": "the_tiny_turtle\u2019s_big_dream_english",
+    "file_name": "the_tiny_turtle\u2019s_big_dream_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tiny_turtle\u2019s_big_dream_english.mp3?"
+  },
+  {
+    "story_name": "the_tiny_dragon\u2019s_big_roar_english",
+    "file_name": "the_tiny_dragon\u2019s_big_roar_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tiny_dragon\u2019s_big_roar_english.mp3?"
+  },
+  {
+    "story_name": "the_story_of_king_harishchandra_english",
+    "file_name": "the_story_of_king_harishchandra_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_story_of_king_harishchandra_english.mp3?"
+  },
+  {
+    "story_name": "the_legend_of_la_llorona_english",
+    "file_name": "the_legend_of_la_llorona_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_legend_of_la_llorona_english.mp3?"
+  },
+  {
+    "story_name": "ella_and_the_dancing_teacups_english",
+    "file_name": "ella_and_the_dancing_teacups_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/ella_and_the_dancing_teacups_english.mp3?"
+  },
+  {
+    "story_name": "the_penguin_who_wanted_to_fly_english",
+    "file_name": "the_penguin_who_wanted_to_fly_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_penguin_who_wanted_to_fly_english.mp3?"
+  },
+  {
+    "story_name": "the_legend_of_beowulf_english",
+    "file_name": "the_legend_of_beowulf_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_legend_of_beowulf_english.mp3?"
+  },
+  {
+    "story_name": "the_bubblegum_planet_english",
+    "file_name": "the_bubblegum_planet_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_bubblegum_planet_english.mp3?"
+  },
+  {
+    "story_name": "the_tale_of_gopal_and_the_talking_cow_english",
+    "file_name": "the_tale_of_gopal_and_the_talking_cow_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tale_of_gopal_and_the_talking_cow_english.mp3?"
+  },
+  {
+    "story_name": "the_wind_and_the_sun_english",
+    "file_name": "the_wind_and_the_sun_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_wind_and_the_sun_english.mp3?"
+  },
+  {
+    "story_name": "the_legend_of_momotaro_(peach_boy)_english",
+    "file_name": "the_legend_of_momotaro_(peach_boy)_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_legend_of_momotaro_(peach_boy)_english.mp3?"
+  },
+  {
+    "story_name": "the_enchanted_zookeeper_english",
+    "file_name": "the_enchanted_zookeeper_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_enchanted_zookeeper_english.mp3?"
+  },
+  {
+    "story_name": "the_secret_of_the_talking_tree_english",
+    "file_name": "the_secret_of_the_talking_tree_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_secret_of_the_talking_tree_english.mp3?"
+  },
+  {
+    "story_name": "vanity_fair_english",
+    "file_name": "vanity_fair_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/vanity_fair_english.mp3?"
+  },
+  {
+    "story_name": "the_cloud_that_wanted_to_be_a_pillow_english",
+    "file_name": "the_cloud_that_wanted_to_be_a_pillow_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_cloud_that_wanted_to_be_a_pillow_english.mp3?"
+  },
+  {
+    "story_name": "the_lady_of_the_lake_english",
+    "file_name": "the_lady_of_the_lake_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_lady_of_the_lake_english.mp3?"
+  },
+  {
+    "story_name": "the_story_of_sim_cheong_english",
+    "file_name": "the_story_of_sim_cheong_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_story_of_sim_cheong_english.mp3?"
+  },
+  {
+    "story_name": "the_story_of_panchatantra_and_the_talking_turtle_english",
+    "file_name": "the_story_of_panchatantra_and_the_talking_turtle_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_story_of_panchatantra_and_the_talking_turtle_english.mp3?"
+  },
+  {
+    "story_name": "the_story_of_king_vikram_and_betaal_english",
+    "file_name": "the_story_of_king_vikram_and_betaal_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_story_of_king_vikram_and_betaal_english.mp3?"
+  },
+  {
+    "story_name": "the_forgetful_fairy_english",
+    "file_name": "the_forgetful_fairy_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_forgetful_fairy_english.mp3?"
+  },
+  {
+    "story_name": "lord_of_the_flies_english",
+    "file_name": "lord_of_the_flies_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/lord_of_the_flies_english.mp3?"
+  },
+  {
+    "story_name": "wuthering_heights_english",
+    "file_name": "wuthering_heights_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/wuthering_heights_english.mp3?"
+  },
+  {
+    "story_name": "the_little_women_english",
+    "file_name": "the_little_women_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_little_women_english.mp3?"
+  },
+  {
+    "story_name": "danny_and_the_doodle_monster_english",
+    "file_name": "danny_and_the_doodle_monster_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/danny_and_the_doodle_monster_english.mp3?"
+  },
+  {
+    "story_name": "the_tale_of_the_blacksmith_and_the_devil_english",
+    "file_name": "the_tale_of_the_blacksmith_and_the_devil_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tale_of_the_blacksmith_and_the_devil_english.mp3?"
+  },
+  {
+    "story_name": "the_demon_and_the_magic_drum_english",
+    "file_name": "the_demon_and_the_magic_drum_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_demon_and_the_magic_drum_english.mp3?"
+  },
+  {
+    "story_name": "sasha_and_the_talking_star_english",
+    "file_name": "sasha_and_the_talking_star_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/sasha_and_the_talking_star_english.mp3?"
+  },
+  {
+    "story_name": "the_wise_king_and_the_foolish_judge_english",
+    "file_name": "the_wise_king_and_the_foolish_judge_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_wise_king_and_the_foolish_judge_english.mp3?"
+  },
+  {
+    "story_name": "the_curse_of_the_churel_english",
+    "file_name": "the_curse_of_the_churel_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_curse_of_the_churel_english.mp3?"
+  },
+  {
+    "story_name": "gulliver\u2019s_travels_english",
+    "file_name": "gulliver\u2019s_travels_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/gulliver\u2019s_travels_english.mp3?"
+  },
+  {
+    "story_name": "the_castle_of_the_sleeping_princess_english",
+    "file_name": "the_castle_of_the_sleeping_princess_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_castle_of_the_sleeping_princess_english.mp3?"
+  },
+  {
+    "story_name": "to_kill_a_mockingbird_english",
+    "file_name": "to_kill_a_mockingbird_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/to_kill_a_mockingbird_english.mp3?"
+  },
+  {
+    "story_name": "the_boy_who_cried_wolf_english",
+    "file_name": "the_boy_who_cried_wolf_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_boy_who_cried_wolf_english.mp3?"
+  },
+  {
+    "story_name": "the_fisherman_and_the_demon_english",
+    "file_name": "the_fisherman_and_the_demon_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_fisherman_and_the_demon_english.mp3?"
+  },
+  {
+    "story_name": "the_legend_of_king_solomon\u2019s_ring_english",
+    "file_name": "the_legend_of_king_solomon\u2019s_ring_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_legend_of_king_solomon\u2019s_ring_english.mp3?"
+  },
+  {
+    "story_name": "benny_and_the_runaway_balloon_english",
+    "file_name": "benny_and_the_runaway_balloon_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/benny_and_the_runaway_balloon_english.mp3?"
+  },
+  {
+    "story_name": "the_tale_of_two_cities_english",
+    "file_name": "the_tale_of_two_cities_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tale_of_two_cities_english.mp3?"
+  },
+  {
+    "story_name": "the_legend_of_red_hill_english",
+    "file_name": "the_legend_of_red_hill_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_legend_of_red_hill_english.mp3?"
+  },
+  {
+    "story_name": "the_lady_and_the_lion_english",
+    "file_name": "the_lady_and_the_lion_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_lady_and_the_lion_english.mp3?"
+  },
+  {
+    "story_name": "the_secret_door_in_the_attic_english",
+    "file_name": "the_secret_door_in_the_attic_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_secret_door_in_the_attic_english.mp3?"
+  },
+  {
+    "story_name": "the_brahmin_and_the_tiger_english",
+    "file_name": "the_brahmin_and_the_tiger_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_brahmin_and_the_tiger_english.mp3?"
+  },
+  {
+    "story_name": "oliver\u2019s_upside-down_day_english",
+    "file_name": "oliver\u2019s_upside-down_day_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/oliver\u2019s_upside-down_day_english.mp3?"
+  },
+  {
+    "story_name": "1984_english",
+    "file_name": "1984_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/1984_english.mp3?"
+  },
+  {
+    "story_name": "the_clumsy_wizard_english",
+    "file_name": "the_clumsy_wizard_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_clumsy_wizard_english.mp3?"
+  },
+  {
+    "story_name": "coyote_and_the_rolling_rock_english",
+    "file_name": "coyote_and_the_rolling_rock_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/coyote_and_the_rolling_rock_english.mp3?"
+  },
+  {
+    "story_name": "moby-dick_english",
+    "file_name": "moby-dick_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/moby-dick_english.mp3?"
+  },
+  {
+    "story_name": "the_legend_of_the_basilisk_english",
+    "file_name": "the_legend_of_the_basilisk_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_legend_of_the_basilisk_english.mp3?"
+  },
+  {
+    "story_name": "the_mermaid\u2019s_lost_necklace_english",
+    "file_name": "the_mermaid\u2019s_lost_necklace_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_mermaid\u2019s_lost_necklace_english.mp3?"
+  },
+  {
+    "story_name": "the_aeneid_english",
+    "file_name": "the_aeneid_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_aeneid_english.mp3?"
+  },
+  {
+    "story_name": "the_magic_kettle_english",
+    "file_name": "the_magic_kettle_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_magic_kettle_english.mp3?"
+  },
+  {
+    "story_name": "north_and_south_english",
+    "file_name": "north_and_south_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/north_and_south_english.mp3?"
+  },
+  {
+    "story_name": "rosie_and_the_secret_of_the_giggles_english",
+    "file_name": "rosie_and_the_secret_of_the_giggles_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/rosie_and_the_secret_of_the_giggles_english.mp3?"
+  },
+  {
+    "story_name": "the_dancing_robot_english",
+    "file_name": "the_dancing_robot_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_dancing_robot_english.mp3?"
+  },
+  {
+    "story_name": "the_scarlet_letter_english",
+    "file_name": "the_scarlet_letter_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_scarlet_letter_english.mp3?"
+  },
+  {
+    "story_name": "charlie_and_the_whispering_shell_english",
+    "file_name": "charlie_and_the_whispering_shell_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/charlie_and_the_whispering_shell_english.mp3?"
+  },
+  {
+    "story_name": "the_metamorphosis_english",
+    "file_name": "the_metamorphosis_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_metamorphosis_english.mp3?"
+  },
+  {
+    "story_name": "the_odyssey_of_gilgamesh_english",
+    "file_name": "the_odyssey_of_gilgamesh_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_odyssey_of_gilgamesh_english.mp3?"
+  },
+  {
+    "story_name": "the_tortoise_and_the_hare_english",
+    "file_name": "the_tortoise_and_the_hare_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tortoise_and_the_hare_english.mp3?"
+  },
+  {
+    "story_name": "captain_paws_and_the_missing_bone_english",
+    "file_name": "captain_paws_and_the_missing_bone_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/captain_paws_and_the_missing_bone_english.mp3?"
+  },
+  {
+    "story_name": "the_brothers_heungbu_and_nolbu_english",
+    "file_name": "the_brothers_heungbu_and_nolbu_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_brothers_heungbu_and_nolbu_english.mp3?"
+  },
+  {
+    "story_name": "the_great_gatsby_english",
+    "file_name": "the_great_gatsby_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_great_gatsby_english.mp3?"
+  },
+  {
+    "story_name": "leo_and_the_library_of_lost_stories_english",
+    "file_name": "leo_and_the_library_of_lost_stories_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/leo_and_the_library_of_lost_stories_english.mp3?"
+  },
+  {
+    "story_name": "the_brave_little_raindrop_english",
+    "file_name": "the_brave_little_raindrop_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_brave_little_raindrop_english.mp3?"
+  },
+  {
+    "story_name": "fluffy_and_the_moonlight_parade_english",
+    "file_name": "fluffy_and_the_moonlight_parade_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/fluffy_and_the_moonlight_parade_english.mp3?"
+  },
+  {
+    "story_name": "the_goose_that_laid_the_golden_eggs_english",
+    "file_name": "the_goose_that_laid_the_golden_eggs_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_goose_that_laid_the_golden_eggs_english.mp3?"
+  },
+  {
+    "story_name": "the_crow_and_the_pitcher_english",
+    "file_name": "the_crow_and_the_pitcher_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_crow_and_the_pitcher_english.mp3?"
+  },
+  {
+    "story_name": "the_republic_english",
+    "file_name": "the_republic_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_republic_english.mp3?"
+  },
+  {
+    "story_name": "the_tenali_raman_stories_english",
+    "file_name": "the_tenali_raman_stories_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tenali_raman_stories_english.mp3?"
+  },
+  {
+    "story_name": "the_art_of_war_english",
+    "file_name": "the_art_of_war_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_art_of_war_english.mp3?"
+  },
+  {
+    "story_name": "urashima_taro_and_the_dragon_palace_english",
+    "file_name": "urashima_taro_and_the_dragon_palace_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/urashima_taro_and_the_dragon_palace_english.mp3?"
+  },
+  {
+    "story_name": "the_sorrows_of_young_werther_english",
+    "file_name": "the_sorrows_of_young_werther_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_sorrows_of_young_werther_english.mp3?"
+  },
+  {
+    "story_name": "the_wise_parrot_and_the_wicked_hunter_english",
+    "file_name": "the_wise_parrot_and_the_wicked_hunter_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_wise_parrot_and_the_wicked_hunter_english.mp3?"
+  },
+  {
+    "story_name": "the_ghostly_bride_of_rajasthan_english",
+    "file_name": "the_ghostly_bride_of_rajasthan_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_ghostly_bride_of_rajasthan_english.mp3?"
+  },
+  {
+    "story_name": "the_magical_weaver_bird_english",
+    "file_name": "the_magical_weaver_bird_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_magical_weaver_bird_english.mp3?"
+  },
+  {
+    "story_name": "the_invisible_man_english",
+    "file_name": "the_invisible_man_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_invisible_man_english.mp3?"
+  },
+  {
+    "story_name": "the_fox_and_the_grapes_english",
+    "file_name": "the_fox_and_the_grapes_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_fox_and_the_grapes_english.mp3?"
+  },
+  {
+    "story_name": "the_grateful_crane_english",
+    "file_name": "the_grateful_crane_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_grateful_crane_english.mp3?"
+  },
+  {
+    "story_name": "the_tiger_and_the_persimmon_english",
+    "file_name": "the_tiger_and_the_persimmon_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tiger_and_the_persimmon_english.mp3?"
+  },
+  {
+    "story_name": "the_tale_of_the_bamboo_cutter_(princess_kaguya)_english",
+    "file_name": "the_tale_of_the_bamboo_cutter_(princess_kaguya)_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tale_of_the_bamboo_cutter_(princess_kaguya)_english.mp3?"
+  },
+  {
+    "story_name": "the_woodcutter_and_the_heavenly_maiden_english",
+    "file_name": "the_woodcutter_and_the_heavenly_maiden_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_woodcutter_and_the_heavenly_maiden_english.mp3?"
+  },
+  {
+    "story_name": "the_wolf_in_sheep\u2019s_clothing_english",
+    "file_name": "the_wolf_in_sheep\u2019s_clothing_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_wolf_in_sheep\u2019s_clothing_english.mp3?"
+  },
+  {
+    "story_name": "the_unicorn\u2019s_rainbow_surprise_english",
+    "file_name": "the_unicorn\u2019s_rainbow_surprise_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_unicorn\u2019s_rainbow_surprise_english.mp3?"
+  },
+  {
+    "story_name": "frankenstein_english",
+    "file_name": "frankenstein_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/frankenstein_english.mp3?"
+  },
+  {
+    "story_name": "the_teddy_bear's_secret_mission_english",
+    "file_name": "the_teddy_bears_secret_mission_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_teddy_bears_secret_mission_english.mp3?"
+  },
+  {
+    "story_name": "the_foolish_lion_and_the_clever_hare_english",
+    "file_name": "the_foolish_lion_and_the_clever_hare_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_foolish_lion_and_the_clever_hare_english.mp3?"
+  },
+  {
+    "story_name": "the_jungle_book_english",
+    "file_name": "the_jungle_book_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_jungle_book_english.mp3?"
+  },
+  {
+    "story_name": "the_shepherd_and_the_golden_wolf_english",
+    "file_name": "the_shepherd_and_the_golden_wolf_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_shepherd_and_the_golden_wolf_english.mp3?"
+  },
+  {
+    "story_name": "the_wise_crow_and_the_foolish_deer_english",
+    "file_name": "the_wise_crow_and_the_foolish_deer_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_wise_crow_and_the_foolish_deer_english.mp3?"
+  },
+  {
+    "story_name": "the_grapes_of_wrath_english",
+    "file_name": "the_grapes_of_wrath_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_grapes_of_wrath_english.mp3?"
+  },
+  {
+    "story_name": "the_tale_of_tenali_raman_and_the_three_dolls_english",
+    "file_name": "the_tale_of_tenali_raman_and_the_three_dolls_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_tale_of_tenali_raman_and_the_three_dolls_english.mp3?"
+  },
+  {
+    "story_name": "the_runaway_snowball_english",
+    "file_name": "the_runaway_snowball_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_runaway_snowball_english.mp3?"
+  },
+  {
+    "story_name": "the_brahmin_and_the_goat_english",
+    "file_name": "the_brahmin_and_the_goat_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_brahmin_and_the_goat_english.mp3?"
+  },
+  {
+    "story_name": "the_wish_in_the_wind_english",
+    "file_name": "the_wish_in_the_wind_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_wish_in_the_wind_english.mp3?"
+  },
+  {
+    "story_name": "the_mice_and_the_elephants_english",
+    "file_name": "the_mice_and_the_elephants_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_mice_and_the_elephants_english.mp3?"
+  },
+  {
+    "story_name": "the_enchanted_prince_english",
+    "file_name": "the_enchanted_prince_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_enchanted_prince_english.mp3?"
+  },
+  {
+    "story_name": "jane_eyre_english",
+    "file_name": "jane_eyre_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/jane_eyre_english.mp3?"
+  },
+  {
+    "story_name": "the_wizard_of_oz_english",
+    "file_name": "the_wizard_of_oz_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_wizard_of_oz_english.mp3?"
+  },
+  {
+    "story_name": "the_curious_case_of_the_floating_hat_english",
+    "file_name": "the_curious_case_of_the_floating_hat_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_curious_case_of_the_floating_hat_english.mp3?"
+  },
+  {
+    "story_name": "the_legend_of_the_seven_sisters_and_the_sacred_river_english",
+    "file_name": "the_legend_of_the_seven_sisters_and_the_sacred_river_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_legend_of_the_seven_sisters_and_the_sacred_river_english.mp3?"
+  },
+  {
+    "story_name": "robinson_crusoe_english",
+    "file_name": "robinson_crusoe_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/robinson_crusoe_english.mp3?"
+  },
+  {
+    "story_name": "the_magic_carpet_english",
+    "file_name": "the_magic_carpet_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_magic_carpet_english.mp3?"
+  },
+  {
+    "story_name": "the_picture_of_dorian_gray_english",
+    "file_name": "the_picture_of_dorian_gray_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_picture_of_dorian_gray_english.mp3?"
+  },
+  {
+    "story_name": "the_catcher_in_the_rye_english",
+    "file_name": "the_catcher_in_the_rye_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_catcher_in_the_rye_english.mp3?"
+  },
+  {
+    "story_name": "the_sleepy_moon_and_the_midnight_picnic_english",
+    "file_name": "the_sleepy_moon_and_the_midnight_picnic_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_sleepy_moon_and_the_midnight_picnic_english.mp3?"
+  },
+  {
+    "story_name": "the_scarlet_pimpernel_english",
+    "file_name": "the_scarlet_pimpernel_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_scarlet_pimpernel_english.mp3?"
+  },
+  {
+    "story_name": "the_red_badge_of_courage_english",
+    "file_name": "the_red_badge_of_courage_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_red_badge_of_courage_english.mp3?"
+  },
+  {
+    "story_name": "the_lion_and_the_clever_rabbit_english",
+    "file_name": "the_lion_and_the_clever_rabbit_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_lion_and_the_clever_rabbit_english.mp3?"
+  },
+  {
+    "story_name": "the_grateful_king_and_the_talking_fish_english",
+    "file_name": "the_grateful_king_and_the_talking_fish_english.mp3",
+    "url": "https://nhvnjpmuzvjtmkilwjpx.supabase.co/storage/v1/object/public/audios/the_grateful_king_and_the_talking_fish_english.mp3?"
+  }
+]

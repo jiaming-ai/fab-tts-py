@@ -1,0 +1,15 @@
+python-dotenv
+scipy
+pydantic
+azure-core
+aiohttp
+azure-identity
+ruff
+black
+soundfile
+numpy
+pytest
+pytest-asyncio
+openai
+pydub
+langfuse
